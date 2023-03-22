@@ -2,20 +2,20 @@
 [Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) 
 
 
-Dr. Chenfei Wu is a senior researcher of the Natural Language Computing group at Microsoft Research Asia. 
+Dr. Chenfei Wu is a senior researcher of the Natural Language Computing group at Microsoft Research Asia. Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and a multimodal dialogue system Visual ChatGPT. He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM.
 
-吴晨飞博士，微软亚洲研究院高级研究员。
+吴晨飞博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型NUWA（女娲）系列（NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL）、多模态理解模型Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统Visual ChatGPT。在CVPR, NeurIPS, ACL, ECCV, AAAI, MM等会发表多篇论文。
 
 ### Highlight
 
 
-- **Multimodal Intelligence** 
-    - multimodal pre-training:  [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023).
-    - visual synthesis: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (Preprint 2023).
-    - multimodal visualization: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
+- **Multimodal understanding**:  [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023).
+- **Multimodal generation**: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (Preprint 2023).
+- **Multimodal visualization**: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
+- **Multimodal system**: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Arxiv).
 
 
-### Talk
+### Talks
 
 - [NUWA: Neural visual world creation with multimodal pretraining](https://www.microsoft.com/en-us/research/video/research-talk-nuwa-neural-visual-world-creation-with-multimodal-pretraining/). Microsoft Research Summit 2021, October 2021.
 - [VLP for Text-to-Image Synthesis](https://www.microsoft.com/en-us/research/video/vlp-tutorial-cvpr-2022-vlp-for-text-to-image-synthesis/). VLP Tutorial @ CVPR 2022, June 2022.
@@ -73,4 +73,12 @@ Dr. Chenfei Wu is a senior researcher of the Natural Language Computing group at
 - **Deep Reason: A Strong Baseline for Real-World Visual Reasoning**.
   <br> Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang. 
   <br> CVPR VQA Workshop, 2019.
-
+- **Differential Networks for Visual Question Answering**.
+  <br> Chenfei Wu, Jinlai Liu, Xiaojie Wang, Ruifan Li. 
+  <br> AAAI, 2019.
+- **Object-Difference Attention: A Simple Relational Attention for Visual Question Answering**.
+  <br> Chenfei Wu, Jinlai Liu, Xiaojie Wang, Xuan Dong
+  <br> ACM Multimedia, 2018.
+- **Chain of Reasoning for Visual Question Answering**.
+  <br> 	Chenfei Wu, Jinlai Liu, Xiaojie Wang, Xuan Dong
+  <br> NeurIPS, 2018.
