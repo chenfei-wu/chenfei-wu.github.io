@@ -2,7 +2,7 @@
 [Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) 
 
 
-Dr. Chenfei Wu is a senior researcher of the Natural Language Computing group at Microsoft Research Asia. Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and a multimodal dialogue system Visual ChatGPT. He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM.
+Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and a multimodal dialogue system Visual ChatGPT. He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM.
 
 吴晨飞博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型NUWA（女娲）系列（NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL）、多模态理解模型Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统Visual ChatGPT。在CVPR, NeurIPS, ACL, ECCV, AAAI, MM等会发表多篇论文。
 
