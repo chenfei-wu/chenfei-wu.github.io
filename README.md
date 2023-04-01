@@ -2,9 +2,9 @@
 [Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) 
 
 
-Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and a multimodal dialogue system Visual ChatGPT. He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM.
+Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM.
 
-吴晨飞博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型NUWA（女娲）系列（NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL）、多模态理解模型Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统Visual ChatGPT。在CVPR, NeurIPS, ACL, ECCV, AAAI, MM等会发表多篇论文。
+吴晨飞博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型NUWA（女娲）系列（NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL）、多模态理解模型Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统（Visual ChatGPT, TaskMatrix.AI）。在CVPR, NeurIPS, ACL, ECCV, AAAI, MM等会发表多篇论文。
 
 ### Highlight
 
@@ -12,7 +12,7 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 - **Multimodal understanding**:  [KD-VLP](https://arxiv.org/abs/2109.10504) (NAACL, 2022), [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023).
 - **Multimodal generation**: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (Preprint 2023).
 - **Multimodal visualization**: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
-- **Multimodal system**: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Arxiv).
+- **Multimodal system**: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Arxiv), [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Arxiv)
 
 
 ### Talks
@@ -23,7 +23,9 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 
 
 ### Preprint
-
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI))
+  <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
+  <br> arXiv, 2023.
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**. ([GitHub](https://github.com/microsoft/visual-chatgpt))
   <br> Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan.
   <br> arXiv, 2023.
