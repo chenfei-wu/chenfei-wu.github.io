@@ -23,6 +23,13 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 
 
 ### Preprint
+
+- **Dan Qiao, Chenfei Wu, Yaobo Liang, Juntao Li, Nan Duan**.
+  <br> Dan Qiao, Chenfei Wu, Yaobo Liang, Juntao Li, Nan Duan.
+  <br> arXiv, 2023.
+- **DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**. ([Homepage](https://www.microsoft.com/en-us/research/project/dragnuwa/))
+  <br> Shengming Yin, Chenfei Wu, Jian Liang, Jie Shi, Houqiang Li, Gong Ming, Nan Duan.
+  <br> arXiv, 2023.
 - **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**. ([GitHub](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI))
   <br> Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan.
   <br> arXiv, 2023.
