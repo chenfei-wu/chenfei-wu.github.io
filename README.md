@@ -24,7 +24,7 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 
 ### Preprint
 
-- **Dan Qiao, Chenfei Wu, Yaobo Liang, Juntao Li, Nan Duan**.
+- **GameEval: Evaluating LLMs on Conversational Games**.
   <br> Dan Qiao, Chenfei Wu, Yaobo Liang, Juntao Li, Nan Duan.
   <br> arXiv, 2023.
 - **DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**. ([Homepage](https://www.microsoft.com/en-us/research/project/dragnuwa/))
