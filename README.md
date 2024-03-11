@@ -53,14 +53,53 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 
 ### Publication
 
-- ``ICLR 2024`` [LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models](https://arxiv.org/abs/2309.09506), Zecheng Tang, **Chenfei Wu**, Juntao Li, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/LayoutNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/LayoutNUWA)
 
-- ``ArXiv Preprint`` [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671), **Chenfei Wu**, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan \| [![](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=social&label=Github+Stars)](https://github.com/chenfei-wu/TaskMatrix)
+<!-- - ``ArXiv Preprint`` [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671), **Chenfei Wu**, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan \| [![](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=social&label=Github+Stars)](https://github.com/chenfei-wu/TaskMatrix)
+
+- ``ECCV`` [Nüwa: Visual synthesis pre-training for neural visual world creation](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_41), **Chenfei Wu**, Jian Liang, Lei Ji, Fan Yang, Yuejian Fang, Daxin Jiang, Nan Duan \| [![](https://img.shields.io/github/stars/microsoft/NUWA?style=social&label=Github+Stars)](https://github.com/microsoft/NUWA.git)
 
 - ``ArXiv Preprint`` [Godiva: Generating open-domain videos from natural descriptions](https://arxiv.org/abs/2104.14806), **Chenfei Wu**, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan
 
 - ``ArXiv Preprint`` [Taskmatrix. ai: Completing tasks by connecting foundation models with millions of apis](https://arxiv.org/abs/2303.16434), Yaobo Liang, **Chenfei Wu**, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan \| [![](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=social&label=Github+Stars)](https://github.com/chenfei-wu/TaskMatrix)
 
+- ``ACM MM`` [Object-difference attention: A simple relational attention for visual question answering](https://dl.acm.org/doi/abs/10.1145/3240508.3240513), **Chenfei Wu**, Jinlai Liu, Xiaojie Wang, Xuan Dong
+
+- ``NeurIPS`` [Chain of reasoning for visual question answering](https://proceedings.neurips.cc/paper_files/paper/2018/hash/31fefc0e570cb3860f2a6d4b38c6490d-Abstract.html), **Chenfei Wu**, Jinlai Liu, Xiaojie Wang, Xuan Dong
+
+- ``CVPR`` [Reco: Region-controlled text-to-image generation](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.html), Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, **Chenfei Wu**, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang
+
+- ``AAAI`` [Differential networks for visual question answering](https://ojs.aaai.org/index.php/AAAI/article/view/4930), **Chenfei Wu**, Jinlai Liu, Xiaojie Wang, Ruifan Li
+
+- ``AAAI`` [Bridgetower: Building bridges between encoders in vision-language representation learning](https://ojs.aaai.org/index.php/AAAI/article/view/26263), Xiao Xu, **Chenfei Wu**, Shachar Rosenman, Vasudev Lal, Wanxiang Che, Nan Duan \| [![](https://img.shields.io/github/stars/microsoft/BridgeTower?style=social&label=Github+Stars)](https://github.com/microsoft/BridgeTower)
+
+- ``ACL`` [NUWA-XL: Diffusion over diffusion for extremely long video generation](https://arxiv.org/abs/2303.12346), Shengming Yin, **Chenfei Wu**, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan
+
+- ``Arxiv Preprint`` [Dragnuwa: Fine-grained control in video generation by integrating text, image, and trajectory](https://arxiv.org/abs/2308.08089), Shengming Yin, **Chenfei Wu**, Jian Liang, Jie Shi, Houqiang Li, Gong Ming, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/DragNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/DragNUWA)
+
+- ``NeurIPS`` [NUWA-Infinity: Autoregressive over autoregressive generation for infinite visual synthesis](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6358cd0cd6607fdf4870595795eb1710-Abstract-Conference.html), Jian Liang, **Chenfei Wu**, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan \| [![](https://img.shields.io/github/stars/microsoft/NUWA?style=social&label=Github+Stars)](https://github.com/microsoft/NUWA.git)
+
+- ``CVPR`` [Vl-interpret: An interactive visualization tool for interpreting vision-language transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.html), Estelle Aflalo, Meng Du, Shao-Yen Tseng, Yongfei Liu, **Chenfei Wu**, Nan Duan, Vasudev Lal
+
+- ``ACL`` [Kd-vlp: Improving end-to-end vision-and-language pretraining with object knowledge distillation](https://arxiv.org/abs/2109.10504), Yongfei Liu, Chenfei Wu, Shao-yen Tseng, Vasudev Lal, Xuming He, Nan Duan
+
+- ``Arxiv Preprint`` [Low-code llm: Visual programming over llms](https://arxiv.org/abs/2304.08103), Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, Tao Ge, **Chenfei Wu**, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
+
+- ``Arxiv Preprint`` [Divae: Photorealistic images synthesis with denoising diffusion decoder](https://arxiv.org/abs/2206.00386), Jie Shi, Chenfei Wu, Jian Liang, Xiang Liu, Nan Duan
+
+- ``Arxiv Preprint`` [Learning to program with natural language](https://arxiv.org/abs/2304.10464), Yiduo Guo, Yaobo Liang, Chenfei Wu, Wenshan Wu, Dongyan Zhao, Nan Duan
+
+- ``CVPR`` [NUWA-LIP: language-guided image inpainting with defect-free VQGAN](https://arxiv.org/abs/2202.05009), Minheng Ni, **Chenfei Wu**, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan
+
+- ``ACL`` [GEM: A general evaluation benchmark for multimodal tasks](https://arxiv.org/abs/2106.09889), Lin Su, Nan Duan, Edward Cui, Lei Ji, **Chenfei Wu**, Huaishao Luo, Yongfei Liu, Ming Zhong, Taroon Bharti, Arun Sacheti
+
+- ``WACV`` [Learning temporal video procedure segmentation from an automatically collected large dataset](https://openaccess.thecvf.com/content/WACV2022/html/Ji_Learning_Temporal_Video_Procedure_Segmentation_From_an_Automatically_Collected_Large_WACV_2022_paper.html), Lei Ji, **Chenfei Wu**, Daisy Zhou, Kun Yan, Edward Cui, Xilin Chen, Nan Duan
+
+
+- ``CVPR Workshop`` [Deep reason: A strong baseline for real-world visual reasoning](https://arxiv.org/abs/1905.10226), Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang
+
+- ``Arxiv Preprint`` [EIPE-text: Evaluation-Guided Iterative Plan Extraction for Long-Form Narrative Text Generation](https://arxiv.org/abs/1905.10226), Chenfei Wu, Yanzhao Zhou, Gen Li, Nan Duan, Duyu Tang, Xiaojie Wang
+
+- ``ICLR 2024`` [LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models](https://arxiv.org/abs/2309.09506), Zecheng Tang, **Chenfei Wu**, Juntao Li, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/LayoutNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/LayoutNUWA) -->
 
 
 - **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**.
