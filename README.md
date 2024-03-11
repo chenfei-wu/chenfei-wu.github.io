@@ -9,10 +9,11 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 ### Highlight
 
 
-- **Multimodal understanding**:  [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023), [Manager-Tower]() (ACL, 2023)
 - **Multimodal generation**: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (IJCAI 2023), [NUWA-XL](https://arxiv.org/abs/2303.12346) (ACL 2023), [DragNUWA](https://arxiv.org/abs/2308.08089).
-- **Multimodal visualization**: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
+- **Multimodal understanding**:  [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023), [Manager-Tower]() (ACL, 2023)
 - **Multimodal system**: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Arxiv), [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Arxiv)
+- **Multimodal visualization**: [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
+
 
 
 ### Talks
@@ -53,6 +54,13 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 ### Publication
 
 - ``ICLR 2024`` [LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models](https://arxiv.org/abs/2309.09506), Zecheng Tang, **Chenfei Wu**, Juntao Li, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/LayoutNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/LayoutNUWA)
+
+- ``ArXiv Preprint`` [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671), **Chenfei Wu**, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/LayoutNUWA?style=social&label=Github+Stars)](https://github.com/chenfei-wu/TaskMatrix)
+
+- ``ArXiv Preprint`` [Godiva: Generating open-domain videos from natural descriptions](https://arxiv.org/abs/2104.14806), **Chenfei Wu**, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan
+
+- ``TaskMatrix.ai`` [Taskmatrix. ai: Completing tasks by connecting foundation models with millions of apis](https://arxiv.org/abs/2303.16434), Yaobo Liang, **Chenfei Wu**, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan
+
 
 
 - **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**.
