@@ -55,11 +55,11 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 
 - ``ICLR 2024`` [LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models](https://arxiv.org/abs/2309.09506), Zecheng Tang, **Chenfei Wu**, Juntao Li, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/LayoutNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/LayoutNUWA)
 
-- ``ArXiv Preprint`` [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671), **Chenfei Wu**, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/LayoutNUWA?style=social&label=Github+Stars)](https://github.com/chenfei-wu/TaskMatrix)
+- ``ArXiv Preprint`` [Visual chatgpt: Talking, drawing and editing with visual foundation models](https://arxiv.org/abs/2303.04671), **Chenfei Wu**, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan \| [![](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=social&label=Github+Stars)](https://github.com/chenfei-wu/TaskMatrix)
 
 - ``ArXiv Preprint`` [Godiva: Generating open-domain videos from natural descriptions](https://arxiv.org/abs/2104.14806), **Chenfei Wu**, Lun Huang, Qianxi Zhang, Binyang Li, Lei Ji, Fan Yang, Guillermo Sapiro, Nan Duan
 
-- ``TaskMatrix.ai`` [Taskmatrix. ai: Completing tasks by connecting foundation models with millions of apis](https://arxiv.org/abs/2303.16434), Yaobo Liang, **Chenfei Wu**, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan
+- ``TaskMatrix.ai`` [Taskmatrix. ai: Completing tasks by connecting foundation models with millions of apis](https://arxiv.org/abs/2303.16434), Yaobo Liang, **Chenfei Wu**, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan \| [![](https://img.shields.io/github/stars/chenfei-wu/TaskMatrix?style=social&label=Github+Stars)](https://github.com/chenfei-wu/TaskMatrix)
 
 
 
