@@ -52,6 +52,9 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 
 ### Publication
 
+- ``ICLR 2024`` [LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models](https://arxiv.org/abs/2309.09506), **Zecheng Tang**, Chenfei Wu, Juntao Li, Nan Duan \| [![](https://img.shields.io/github/stars/ProjectNUWA/LayoutNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/LayoutNUWA)
+
+
 - **NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN**.
   <br> Minheng Ni, Chenfei Wu, Haoyang Huang, Daxin Jiang, Wangmeng Zuo, Nan Duan. 
   <br> CVPR, 2023.
