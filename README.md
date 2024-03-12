@@ -1,21 +1,16 @@
 # Chenfei WU (吴晨飞)
 
-[Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ)
+[Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) \| [Github](https://github.com/chenfei-wu)
 
-Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM.
+Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM, with more than a thousand citations.
 
-吴晨飞博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型 NUWA（女娲）系列（NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL）、多模态理解模型 Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统（Visual ChatGPT, TaskMatrix.AI）。在 CVPR, NeurIPS, ACL, ECCV, AAAI, MM 等会发表多篇论文。
+吴晨飞博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型 NUWA（女娲）系列（NUWA, NUWA-Infinity, NUWA-XL, DragNUWA）、多模态理解模型 Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统（Visual ChatGPT, TaskMatrix.AI）。在 CVPR, NeurIPS, ACL, ECCV, AAAI, MM 等会发表多篇论文，引用量千余次。
 
 ## Highlight
 
 - **Multimodal Generation**: [GODIVA](https://arxiv.org/abs/2104.14806) (Preprint, 2021), [NUWA(女娲)](https://arxiv.org/abs/2111.12417) (ECCV, 2022), [NUWA-Infinity](https://arxiv.org/abs/2207.09814) (NeurIPS, 2022), [NUWA-LIP](https://arxiv.org/abs/2202.05009) (CVPR 2023), [NUWA-3D](https://arxiv.org/abs/2302.10781) (IJCAI 2023), [NUWA-XL](https://arxiv.org/abs/2303.12346) (ACL 2023), [DragNUWA](https://arxiv.org/abs/2308.08089) (Preprint, 2023), [LayoutNUWA](https://openreview.net/forum?id=qCUWVT0Ayy) (ICLR 2024), [StrokeNUWA](https://arxiv.org/abs/2401.17093) (Preprint, 2024).
 - **Multimodal Understanding**: [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023), [Manager-Tower]() (ACL, 2023)
 - **Multimodal System**: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023), [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Intelligent Computing, 2024) [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
-
-## Talks
-
-- [NUWA: Neural visual world creation with multimodal pretraining](https://www.microsoft.com/en-us/research/video/research-talk-nuwa-neural-visual-world-creation-with-multimodal-pretraining/). Microsoft Research Summit 2021, October 2021.
-- [VLP for Text-to-Image Synthesis](https://www.microsoft.com/en-us/research/video/vlp-tutorial-cvpr-2022-vlp-for-text-to-image-synthesis/). VLP Tutorial @ CVPR 2022, June 2022.
 
 ## Publication
 
@@ -151,3 +146,8 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 - **GameEval: Evaluating LLMs on Conversational Games**. [![](https://img.shields.io/badge/Paper-378CE7)](https://arxiv.org/abs/2402.10534)
   <br> Dan Qiao, Chenfei Wu, Yaobo Liang, Juntao Li, Nan Duan.
   <br> Arxiv 2023.
+
+## Talks
+
+- [NUWA: Neural visual world creation with multimodal pretraining](https://www.microsoft.com/en-us/research/video/research-talk-nuwa-neural-visual-world-creation-with-multimodal-pretraining/). Microsoft Research Summit 2021, October 2021.
+- [VLP for Text-to-Image Synthesis](https://www.microsoft.com/en-us/research/video/vlp-tutorial-cvpr-2022-vlp-for-text-to-image-synthesis/). VLP Tutorial @ CVPR 2022, June 2022.
