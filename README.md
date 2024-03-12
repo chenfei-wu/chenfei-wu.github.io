@@ -2,9 +2,9 @@
 
 [Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) \| [Github](https://github.com/chenfei-wu)
 
-Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM, with more than 1000 citations. His Github open source projects have been liked more than 30,000 times.
+Dr. Wu Chenfei obtained his doctoral degree from Beijing University of Posts and Telecommunications in 2020 and currently is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM, with more than 1000 citations. His Github open source projects have been liked more than 30,000 times.
 
-吴晨飞博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型 NUWA（女娲）系列（NUWA, NUWA-Infinity, NUWA-XL, DragNUWA）、多模态理解模型 Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统（Visual ChatGPT, TaskMatrix.AI）。在 CVPR, NeurIPS, ACL, ECCV, AAAI, MM 等会发表多篇论文，引用量千余次, Github 开源项目获赞三万余次。
+吴晨飞，北京邮电大学博士，微软亚洲研究院高级研究员。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型 NUWA（女娲）系列（NUWA, NUWA-Infinity, NUWA-XL, DragNUWA）、多模态理解模型 Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统（Visual ChatGPT, TaskMatrix.AI）。在 CVPR, NeurIPS, ACL, ECCV, AAAI, MM 等会发表多篇论文，引用量千余次, Github 开源项目获赞三万余次。
 
 ## Highlight
 
