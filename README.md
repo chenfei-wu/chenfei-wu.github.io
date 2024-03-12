@@ -44,7 +44,7 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
   <br> **Chenfei Wu**, Jinlai Liu, Xiaojie Wang, Xuan Dong.
   <br> NeurIPS, 2018
 
-- **Reco: Region-controlled text-to-image generation**. [![](https://img.shields.io/badge/Paper-378CE7)](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.html)
+- **Reco: Region-controlled text-to-image generation**. [![](https://img.shields.io/badge/Paper-378CE7)](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.html) [![](https://img.shields.io/github/stars/microsoft/ReCo?style=social&label=Github+Stars)](https://github.com/microsoft/ReCo)
   <br> Zhengyuan Yang, Jianfeng Wang, Zhe Gan, Linjie Li, Kevin Lin, **Chenfei Wu**, Nan Duan, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang.
   <br> CVPR, 2023.
 
@@ -56,15 +56,15 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
   <br> Xiao Xu, **Chenfei Wu**, Shachar Rosenman, Vasudev Lal, Wanxiang Che, Nan Duan.
   <br> AAAI 2023.
 
-- **NUWA-XL: Diffusion over diffusion for extremely long video generation**. [![](https://img.shields.io/badge/Paper-378CE7)](https://arxiv.org/abs/2303.12346) [![](https://img.shields.io/github/stars/microsoft/NUWA?style=social&label=Github+Stars)](https://github.com/microsoft/NUWA.git)
+- **NUWA-XL: Diffusion over diffusion for extremely long video generation**. [![](https://img.shields.io/badge/Paper-378CE7)](https://arxiv.org/abs/2303.12346) [![](https://img.shields.io/badge/Homepage-FF8E8F)](https://nuwa-infinity.microsoft.com/#/NUWAXL) [![](https://img.shields.io/github/stars/microsoft/NUWA?style=social&label=Github+Stars)](https://github.com/microsoft/NUWA.git)
   <br> Shengming Yin, **Chenfei Wu**, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Gong Ming, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan.
   <br> ACL 2023.
 
-- **Dragnuwa: Fine-grained control in video generation by integrating text, image, and trajectory**. [![](https://img.shields.io/badge/Paper-378CE7)](https://arxiv.org/abs/2308.08089) [![](https://img.shields.io/badge/Homepage-FF8E8F)](https://www.microsoft.com/en-us/research/project/dragnuwa/) [![](https://img.shields.io/github/stars/ProjectNUWA/DragNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/DragNUWA)
+- **Dragnuwa: Fine-grained control in video generation by integrating text, image, and trajectory**. [![](https://img.shields.io/badge/Paper-378CE7)](https://arxiv.org/abs/2308.08089) [![](https://img.shields.io/badge/Homepage-FF8E8F)](https://nuwa-infinity.microsoft.com/#/) [![](https://img.shields.io/github/stars/ProjectNUWA/DragNUWA?style=social&label=Github+Stars)](https://github.com/ProjectNUWA/DragNUWA)
   <br> Shengming Yin, **Chenfei Wu**, Jian Liang, Jie Shi, Houqiang Li, Gong Ming, Nan Duan.
   <br> Arxiv 2023.
 
-- **NUWA-Infinity: Autoregressive over autoregressive generation for infinite visual synthesis**. [![](https://img.shields.io/badge/Paper-378CE7)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6358cd0cd6607fdf4870595795eb1710-Abstract-Conference.html) [![](https://img.shields.io/badge/Homepage-FF8E8F)](https://nuwa-infinity.microsoft.com/) [![](https://img.shields.io/github/stars/microsoft/NUWA?style=social&label=Github+Stars)](https://github.com/microsoft/NUWA.git)
+- **NUWA-Infinity: Autoregressive over autoregressive generation for infinite visual synthesis**. [![](https://img.shields.io/badge/Paper-378CE7)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6358cd0cd6607fdf4870595795eb1710-Abstract-Conference.html) [![](https://img.shields.io/badge/Homepage-FF8E8F)](https://nuwa-infinity.microsoft.com/#/NUWAInfinity) [![](https://img.shields.io/github/stars/microsoft/NUWA?style=social&label=Github+Stars)](https://github.com/microsoft/NUWA.git)
   <br> Jian Liang, **Chenfei Wu**, Xiaowei Hu, Zhe Gan, Jianfeng Wang, Lijuan Wang, Zicheng Liu, Yuejian Fang, Nan Duan.
   <br> CVPR 2022.
 
