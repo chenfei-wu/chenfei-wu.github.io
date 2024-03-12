@@ -12,7 +12,28 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 - **Multimodal Understanding**: [Bridge-Tower](https://arxiv.org/abs/2206.08657) (AAAI, 2023), [Manager-Tower]() (ACL, 2023)
 - **Multimodal System**: [Visual ChatGPT](https://arxiv.org/abs/2303.04671) (Preprint, 2023), [TaskMatrix.AI](https://arxiv.org/abs/2303.16434) (Intelligent Computing, 2024) [VL-InterpreT](https://openaccess.thecvf.com/content/CVPR2022/papers/Aflalo_VL-InterpreT_An_Interactive_Visualization_Tool_for_Interpreting_Vision-Language_Transformers_CVPR_2022_paper.pdf) (CVPR, 2022).
 
-## Publication
+## Talks
+
+- [NUWA: Neural visual world creation with multimodal pretraining](https://www.microsoft.com/en-us/research/video/research-talk-nuwa-neural-visual-world-creation-with-multimodal-pretraining/). Microsoft Research Summit 2021, October 2021.
+- [VLP for Text-to-Image Synthesis](https://www.microsoft.com/en-us/research/video/vlp-tutorial-cvpr-2022-vlp-for-text-to-image-synthesis/). VLP Tutorial @ CVPR 2022, Jun 2022.
+- [开放报名｜顶尖专家联合打造，首个系统化 AI 大模型前沿技术讲习班](https://mp.weixin.qq.com/s/z4cHRj0wv8CeJGEhXkFwNw). 智源社区, March 2023.
+- [星辰大海 予力同行 | 遨游“AIGC+元宇宙”世界，掌行业风口，占赛道先机](https://mp.weixin.qq.com/s/CdgOuNL5dGXAx0xHizEvGw). 微软科技, March 2023.
+- [中国中文信息学会《前沿技术讲习班》- 大模型系列专题 · 深圳站](https://mp.weixin.qq.com/s/lv8fKBf4jUq5hMpr_Vk1bw). 中国中文信息学会, Jun 2023.
+- [A2M 峰会圆满落幕 | AIGC 时代下的 AI 落地实践、数据智能和基础架构演进](https://mp.weixin.qq.com/s/0-NuH5qDe5afFmiBtdzgPQ). msup, Jun 2023.
+- [MLNLP2023@多模态多语言大模型论坛](https://mp.weixin.qq.com/s/vB2zn0CTwO_iyda0OojbVw). MLNLP, Sep 2023.
+- [中国中文信息学会《前沿技术讲习班》-大模型系列专题·成都站](https://mp.weixin.qq.com/s/F6CPgrGWSDUqMm2Nfg3ijQ). 中国中文信息学会, Nov 2023.
+
+## Media Report
+
+- [微软再扔 AI 聊天画图炸弹！视觉模型加持 ChatGPT，Visual ChatGPT 横空出世](https://mp.weixin.qq.com/s/Xg-MRtqBt6ONKnLJYFw0Ww). 新智元, March 2023.
+- [视觉版 ChatGPT 来了！吸收 AI 画画全技能，MSRA 全华人团队打造，微软 16 年老将领衔](https://mp.weixin.qq.com/s/oanSkopLM93Krx2jVozR_A). 量子位, March 2023.
+- [一个 AI 驱动百万个 API！微软提出多任务处理模型 TaskMatrix，机器人和物联网终于有救了](https://mp.weixin.qq.com/s/_mDyCiqSqlWi4zdtrfxOKw). 量子位, March 2023.
+- [微软亚洲研究院多模态模型 NÜWA：以自然语言创造视觉内容](https://mp.weixin.qq.com/s/oyBSoGxJxMGuesO5ea4TxQ). 微软亚洲研究院, March 2022.
+- [千万别让富坚义博看到这个-NUWA-Infinity](https://mp.weixin.qq.com/s/xiY0gGwN1V-uxUEIAFgJ7g). 量子位, Jul 2022.
+- [NUWA 系列再添新成员——超长视频生成模型 NUWA-XL](https://mp.weixin.qq.com/s/1Ewuvtx4Hudu6s07GQ2Vyg). 微软亚洲研究院, Feb 2023.
+- [带你穿越清明上河图！DragNUWA 惊艳亮相：一拖一拽让静图秒变视频](https://mp.weixin.qq.com/s/sgT5x-6rkFLqs4AEmBqyCw). 新智元, Sep 2023.
+
+## Publications
 
 ### Multimodal Generation
 
@@ -146,8 +167,3 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 - **GameEval: Evaluating LLMs on Conversational Games**. [![](https://img.shields.io/badge/Paper-378CE7)](https://arxiv.org/abs/2402.10534)
   <br> Dan Qiao, Chenfei Wu, Yaobo Liang, Juntao Li, Nan Duan.
   <br> Arxiv 2023.
-
-## Talks
-
-- [NUWA: Neural visual world creation with multimodal pretraining](https://www.microsoft.com/en-us/research/video/research-talk-nuwa-neural-visual-world-creation-with-multimodal-pretraining/). Microsoft Research Summit 2021, October 2021.
-- [VLP for Text-to-Image Synthesis](https://www.microsoft.com/en-us/research/video/vlp-tutorial-cvpr-2022-vlp-for-text-to-image-synthesis/). VLP Tutorial @ CVPR 2022, June 2022.
