@@ -17,9 +17,9 @@ Dr. Chenfei Wu is a senior researcher at Microsoft Research Asia. His research f
 - [NUWA: Neural visual world creation with multimodal pretraining](https://www.microsoft.com/en-us/research/video/research-talk-nuwa-neural-visual-world-creation-with-multimodal-pretraining/). Microsoft Research Summit 2021, October 2021.
 - [VLP for Text-to-Image Synthesis](https://www.microsoft.com/en-us/research/video/vlp-tutorial-cvpr-2022-vlp-for-text-to-image-synthesis/). VLP Tutorial @ CVPR 2022, Jun 2022.
 - [开放报名｜顶尖专家联合打造，首个系统化 AI 大模型前沿技术讲习班](https://mp.weixin.qq.com/s/z4cHRj0wv8CeJGEhXkFwNw). 智源社区, March 2023.
-- [星辰大海 予力同行 | 遨游“AIGC+元宇宙”世界，掌行业风口，占赛道先机](https://mp.weixin.qq.com/s/CdgOuNL5dGXAx0xHizEvGw). 微软科技, March 2023.
+- [星辰大海 予力同行 遨游“AIGC+元宇宙”世界，掌行业风口，占赛道先机](https://mp.weixin.qq.com/s/CdgOuNL5dGXAx0xHizEvGw). 微软科技, March 2023.
 - [中国中文信息学会《前沿技术讲习班》- 大模型系列专题 · 深圳站](https://mp.weixin.qq.com/s/lv8fKBf4jUq5hMpr_Vk1bw). 中国中文信息学会, Jun 2023.
-- [A2M 峰会圆满落幕 | AIGC 时代下的 AI 落地实践、数据智能和基础架构演进](https://mp.weixin.qq.com/s/0-NuH5qDe5afFmiBtdzgPQ). msup, Jun 2023.
+- [A2M 峰会圆满落幕 AIGC 时代下的 AI 落地实践、数据智能和基础架构演进](https://mp.weixin.qq.com/s/0-NuH5qDe5afFmiBtdzgPQ). msup, Jun 2023.
 - [MLNLP2023@多模态多语言大模型论坛](https://mp.weixin.qq.com/s/vB2zn0CTwO_iyda0OojbVw). MLNLP, Sep 2023.
 - [中国中文信息学会《前沿技术讲习班》-大模型系列专题·成都站](https://mp.weixin.qq.com/s/F6CPgrGWSDUqMm2Nfg3ijQ). 中国中文信息学会, Nov 2023.
 
