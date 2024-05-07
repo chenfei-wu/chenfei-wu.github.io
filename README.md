@@ -1,6 +1,6 @@
 # Chenfei WU (吴晨飞)
 
-[Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) \| [Github](https://github.com/chenfei-wu) \| [LinkedIn](https://www.linkedin.com/in/chenfei-wu-544986167/) \| <chewu@microsoft.com>
+[Microsoft Research](https://www.microsoft.com/en-us/research/people/chewu/) \| [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) \| [Github](https://github.com/chenfei-wu) \| [LinkedIn](https://www.linkedin.com/in/chenfei-wu-544986167/) \| <cqwuchenfei@163.com>
 
 Dr. Wu Chenfei obtained his doctoral degree from Beijing University of Posts and Telecommunications in 2020 and currently is a senior researcher at Microsoft Research Asia. His research focuses on large-scale pre-training, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM, with more than 1000 citations. His Github open source projects have been liked more than 30,000 times.
 
