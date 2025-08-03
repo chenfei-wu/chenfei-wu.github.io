@@ -1,6 +1,6 @@
 # Chenfei WU (吴晨飞)
 
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) \| [Github](https://github.com/chenfei-wu) \| [LinkedIn](https://www.linkedin.com/in/chenfei-wu-544986167/) \|[Twitter](https://x.com/wu_chenfei)\| [Work Email](fulai.hr@alibaba-inc.com) \|[Personal Email](cqwuchenfei@163.com)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) \| [Github](https://github.com/chenfei-wu) \| [LinkedIn](https://www.linkedin.com/in/chenfei-wu-544986167/) \|[Twitter](https://x.com/wu_chenfei)\| [Work Email: fulai.hr@alibaba-inc.com](fulai.hr@alibaba-inc.com) \|[Personal Email](Personal Email: cqwuchenfei@163.com)
 
 Chenfei Wu received his Ph.D. from Beijing University of Posts and Telecommunications, and is currently a senior expert at Tongyi Lab, Alibaba. His research focuses on large model pretraining, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL) and Step-Video (Step-Video-T2V, Step-Video-TI2V), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM, with more than 1000 citations. His Github open source projects have been liked more than 30,000 times.
 
