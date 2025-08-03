@@ -1,6 +1,7 @@
 # Chenfei WU (吴晨飞)
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1YlFL5UAAAAJ) \| [Github](https://github.com/chenfei-wu) \| [LinkedIn](https://www.linkedin.com/in/chenfei-wu-544986167/) \|[Twitter](https://x.com/wu_chenfei)\| [Work Email](fulai.hr@alibaba-inc.com) \|[Personal Email](cqwuchenfei@163.com)
+
 Chenfei Wu received his Ph.D. from Beijing University of Posts and Telecommunications, and is currently a senior expert at Tongyi Lab, Alibaba. His research focuses on large model pretraining, multimodal understanding, and generation. His main research includes a series of multimodal generation models NUWA (NUWA, NUWA-LIP, NUWA-Infinity, NUWA-3D, NUWA-XL) and Step-Video (Step-Video-T2V, Step-Video-TI2V), a series of multimodal understanding models (KD-VLP, Bridge-Tower), and multimodal dialogue systems (Visual ChatGPT, TaskMatrix.AI). He published several papers in conferences such as CVPR, NeurIPS, ACL, ECCV, AAAI, MM, with more than 1000 citations. His Github open source projects have been liked more than 30,000 times.
 
 吴晨飞，北京邮电大学博士，阿里巴巴通义实验室资深专家。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型 NUWA（女娲）系列（NUWA, NUWA-Infinity, NUWA-XL, DragNUWA）和Step-Video系列（Step-Video-T2V, Step-Video-TI2V）、多模态理解模型 Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统（Visual ChatGPT, TaskMatrix.AI）。在 CVPR, NeurIPS, ACL, ECCV, AAAI, MM 等会发表多篇论文，引用量5000余次, Github 开源项目获赞三万余次。
