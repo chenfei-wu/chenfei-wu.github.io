@@ -6,6 +6,23 @@ Chenfei Wu received his Ph.D. from Beijing University of Posts and Telecommunica
 
 吴晨飞，北京邮电大学博士，阿里巴巴通义实验室资深专家。研究方向为大模型预训练、多模态理解和生成。主要研究工作包括多模态生成模型 NUWA（女娲）系列（NUWA, NUWA-Infinity, NUWA-XL, DragNUWA）, Step-Video系列（Step-Video-T2V, Step-Video-TI2V）, Qwen生成系列(Qwen-Image)、多模态理解模型 Bridge Tower（桥塔）系列（KD-VLP, Bridge-Tower）以及多模态对话系统（Visual ChatGPT, TaskMatrix.AI）。在 CVPR, NeurIPS, ACL, ECCV, AAAI, MM 等会发表多篇论文，引用量5000余次, Github 开源项目获赞三万余次。
 
+## News
+We release a 20B MMDiT model for next-gen text-to-image generation. Especially strong at creating stunning graphic posters with native text. Now open-source!
+
+### 🔍 Key Highlights
+
+- **SOTA text rendering** — rivals GPT-4o in English, best-in-class for Chinese  
+- **In-pixel text generation** — no overlays, fully integrated  
+- **Bilingual support**, diverse fonts, complex layouts  
+
+### 📚 Resources
+
+- **Blog**: https://qwenlm.github.io/blog/qwen-image/  
+- **Hugging Face**: https://huggingface.co/Qwen/Qwen-Image  
+- **ModelScope**: https://modelscope.cn/models/Qwen/Qwen-Image  
+- **GitHub**: https://github.com/QwenLM/Qwen-Image  
+- **Technical Report**: https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Qwen_Image.pdf  
+- **Demo**: https://modelscope.cn/aigc/imageGeneration?tab=advanced
 
 ## Highlight
 
